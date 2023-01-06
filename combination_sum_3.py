@@ -24,7 +24,7 @@
 # Explanation:
 # 1 + 2 + 6 = 9
 # 1 + 3 + 5 = 9
-# 2 + 3 + 4 = 9
+# 2 + 3 + 4 = 9 
 # There are no other valid combinations.
 
 # Example 3:
